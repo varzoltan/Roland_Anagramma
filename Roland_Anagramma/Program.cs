@@ -60,6 +60,24 @@ namespace Roland_Anagramma
                     Console.WriteLine(Convert.ToChar(i) + ":" + darabszam);
                 }
             }
+
+            //2.feladat
+            /*string[] sor = File.ReadAllLines("szotar.txt");
+            string[] szotar = new string[300];
+            int n = 0;
+            while (sor != null)
+            {
+                szotar[n] = sor[0];
+                n++;
+            }*/
+            StreamReader olvas = new StreamReader("szotar.txt");
+            int n = 0;
+            string[] szotar = new string[300];
+            while (!olvas.EndOfStream)
+            {
+                szotar[n] = olvas.ReadLine();
+                n++;
+            }
             Console.ReadKey();
         }
     }
