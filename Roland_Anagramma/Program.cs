@@ -78,7 +78,6 @@ namespace Roland_Anagramma
                 szotar[n] = olvas.ReadLine();
                 n++;
             }
-            //
             Console.ReadKey();
         }
     }
