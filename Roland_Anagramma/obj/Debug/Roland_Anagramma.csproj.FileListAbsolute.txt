@@ -5,3 +5,4 @@ C:\Users\Rendszergazda\Documents\GitHub\Roland_Anagramma\Roland_Anagramma\obj\De
 C:\Users\Rendszergazda\Documents\GitHub\Roland_Anagramma\Roland_Anagramma\obj\Debug\Roland_Anagramma.csproj.CoreCompileInputs.cache
 C:\Users\Rendszergazda\Documents\GitHub\Roland_Anagramma\Roland_Anagramma\obj\Debug\Roland_Anagramma.exe
 C:\Users\Rendszergazda\Documents\GitHub\Roland_Anagramma\Roland_Anagramma\obj\Debug\Roland_Anagramma.pdb
+C:\Users\Rendszergazda\Documents\GitHub\Roland_Anagramma\Roland_Anagramma\bin\Debug\szotar.txt

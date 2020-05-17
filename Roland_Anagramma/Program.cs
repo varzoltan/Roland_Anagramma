@@ -65,7 +65,7 @@ namespace Roland_Anagramma
             /*string[] sor = File.ReadAllLines("szotar.txt");
             string[] szotar = new string[300];
             int n = 0;
-            while (sor != null)
+            while (!sor.Equals(null))
             {
                 szotar[n] = sor[0];
                 n++;
@@ -78,6 +78,7 @@ namespace Roland_Anagramma
                 szotar[n] = olvas.ReadLine();
                 n++;
             }
+            //
             Console.ReadKey();
         }
     }
